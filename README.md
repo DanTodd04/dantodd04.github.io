@@ -1,11 +1,11 @@
 # Engineering Student
 
-### Education
+## Education
 **UNIVERSITY OF NORTH DAKOTA** <br />
 Grand Forks, ND | BS in Electrical Engineering <br />
 Currently enrolled in Junior-level courses.
 
-### Skills & Abilities
+## Skills & Abilities
 Proficient in Microsoft 365.  
 Experienced with Onshape.  
 Experienced with soldering.  
@@ -13,7 +13,7 @@ Basic knowledge of C++.
 Competent with 3D printing.  
 Experienced in breadboard prototyping.
 
-### Experience
+## Experience
 **IDEAL AEROSMITH** <br />
 Electrical Assembly Technician | November 2024 - Present <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Crimped and soldered electrical connectors and components. <br />
@@ -34,7 +34,7 @@ Laborer | May 2024 – August 2024 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Operated a Vac-Tron, ensuring precise and effective use for excavation and site preparation tasks. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Collaborated with the team to execute tasks efficiently, following clear instructions provided by the foreman. <br />
 
-### Clubs and Organizations
+## Clubs and Organizations
 **CHEM-E-CAR** <br />
 Head Electrical Engineer <br />
 Responsible for overseeing all electronics and wiring for the car, ensuring proper installation and functionality <br />
